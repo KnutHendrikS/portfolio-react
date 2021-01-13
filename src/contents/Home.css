@@ -1,0 +1,15 @@
+.home_data {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.home_title {
+  font-size: 4rem;
+  color: #4d7191;
+}
+
+.home_profession {
+  color: #304b70;
+  margin-bottom: 2.5rem;
+}
