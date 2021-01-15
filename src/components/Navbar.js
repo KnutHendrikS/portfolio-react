@@ -18,7 +18,7 @@ const Navbar = () => {
                 <Link to='#' className="menu-bars">
                     <FaIcons.FaBars onClick={showSidebar} />
                 </Link>
-                <Link to='/' exact className="navbar-logo">
+                <Link to='/' className="navbar-logo">
                     <div>Knut</div>
                 </Link>
             </div>

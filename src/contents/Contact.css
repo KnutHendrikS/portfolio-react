@@ -1,0 +1,18 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.title {
+  color: #304b70;
+}
+
+.secondtext {
+  margin-top: 5px;
+  font-size: 1.25rem;
+  font-weight: 400;
+}
