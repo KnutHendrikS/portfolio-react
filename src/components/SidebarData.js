@@ -1,5 +1,4 @@
 import * as AiIcons from "react-icons/ai";
-import * as FaIcons from "react-icons/fa";
 import * as IoIcons from "react-icons/io5";
 
 export const SidebarData = [
@@ -22,8 +21,8 @@ export const SidebarData = [
         cName: 'nav-text'
     },
     {
-        title: 'Projects',
-        path: '/projects',
+        title: 'Skills',
+        path: '/skills',
         icon: <IoIcons.IoCodeWorkingOutline />,
         cName: 'nav-text'
     },
